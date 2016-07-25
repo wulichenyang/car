@@ -2,9 +2,13 @@ _ide_helper.php
 .phpstorm.meta.php
 .DS_Store
 .idea
+/news
 /templates_c
 /phpMyAdmin
 config.php
+
+
+!news/readme.md
 
 # User-specific stuff:
 .idea/workspace.xml
