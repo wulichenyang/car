@@ -2,14 +2,15 @@ _ide_helper.php
 .phpstorm.meta.php
 .DS_Store
 .idea
+/buycars
 /news
 /templates_c
 /phpMyAdmin
 config.php
 
-
+!buycars/readme.md
 !news/readme.md
-
+!templates_c/readme.md
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
